@@ -34,15 +34,8 @@
 ---
 
 
-## 📈 **Статистика GitHub**
-
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=108-Software&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=github_dark&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=108-Software&color=blueviolet&style=flat" alt="Просмотры профиля" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=radical&hide_border=true&locale=ru&langs_count=8&hide=html,css,scss,less,stylus" alt="Топ языков" />
 </p>
 
 ---
