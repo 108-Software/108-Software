@@ -37,14 +37,13 @@
 
 (Эту секцию можно добавить позже с динамической статистикой. Популярный сервис — [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))
 
-<!--
+
 <p align="center">
   <a href="https://github.com/108-Software">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=108-Software&show_icons=true&theme=dark&hide_border=true&locale=ru" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=dark&hide_border=true&locale=ru" />
   </a>
 </p>
--->
 
 ---
 
