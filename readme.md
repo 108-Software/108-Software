@@ -33,18 +33,25 @@
 
 ---
 
+
 ## 📈 **Статистика GitHub**
 
+### 📊 Основная статистика
 <p align="center">
-  <a href="https://github.com/108-Software">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=108-Software&show_icons=true&theme=dark&hide_border=true&locale=ru&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=dark&hide_border=true&locale=ru&langs_count=8" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=108-Software&show_icons=true&theme=radical&hide_border=true&locale=ru&count_private=true" alt="Статистика 108-Software" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=radical&hide_border=true&locale=ru&langs_count=6" alt="Топ языков" />
 </p>
 
+### 🔥 Серия коммитов
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=108-Software&theme=dark&hide_border=true&locale=ru" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=108-Software&theme=radical&hide_border=true&locale=ru" alt="Серия коммитов" />
 </p>
+
+### 🏆 Достижения
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=108-Software&theme=radical&no-frame=true&row=2&column=4" alt="Трофеи GitHub" />
+</p>
+
 
 ---
 
