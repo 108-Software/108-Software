@@ -32,11 +32,15 @@
 [![Мой значок CodeWars](https://www.codewars.com/users/Flisthdo/badges/large)](https://www.codewars.com/users/Flisthdo)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=108-Software&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Трофеи
+[![trophy](https://github-profile-trophy.vercel.app/?username=108-Software&theme=onedark&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=108-Software)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 Активность
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=108-Software&show_icons=true&theme=radical&hide_title=true&count_private=true)
+
+### 🗣️ Языки
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=radical&hide=html,css&langs_count=6)
 
 ---
 
