@@ -36,6 +36,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=108-Software&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=108-Software)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📫 **Как со мной связаться**
