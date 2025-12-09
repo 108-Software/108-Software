@@ -34,7 +34,7 @@
 ---
 
 
-[![trophy](https://github-profile-trophy.vercel.app/108-Software)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=108-Software)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
