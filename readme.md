@@ -34,9 +34,7 @@
 ---
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108-Software&layout=compact&theme=radical&hide_border=true&locale=ru&langs_count=8&hide=html,css,scss,less,stylus" alt="Топ языков" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
